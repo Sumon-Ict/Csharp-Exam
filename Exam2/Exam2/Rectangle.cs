@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Exam2
 {
-    class Rectangle
+    public class Rectangle:Shape
     {
+
+
     }
 }

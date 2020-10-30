@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Exam2
 {
-    class Triangle
+   public class Triangle:Shape
     {
+
+       
+
+
     }
 }
