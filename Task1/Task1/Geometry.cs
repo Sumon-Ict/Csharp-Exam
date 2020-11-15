@@ -11,7 +11,7 @@ namespace Task1
         public double CalculateArea(double R)
 
         {
-            return 3.14159 * R * R;
+            return  3.14159 * R * R;
 
         }
 
@@ -51,6 +51,7 @@ namespace Task1
             return (s1 + s2 + s3);
 
         }
+
 
 
 

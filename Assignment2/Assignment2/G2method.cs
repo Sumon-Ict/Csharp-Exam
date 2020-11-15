@@ -2,12 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Task1
+namespace Assignment2
 {
-   public  class Shape 
-
+    class G2method
     {
-          
-        
     }
 }
