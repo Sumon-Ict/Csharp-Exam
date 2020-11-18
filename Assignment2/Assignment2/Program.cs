@@ -8,18 +8,14 @@ namespace Assignment2
         {
             Console.WriteLine("Hello World!");
 
-            /*
-
+       
             Box<double> box1 = new Box<double>();
 
             box1.Height =Convert.ToDouble( Console.ReadLine());
             box1.Width = Convert.ToDouble(Console.ReadLine());
             box1.Length = Convert.ToDouble(Console.ReadLine());
 
-
-
             var Area = box1.Height * box1.Width;
-
 
             Console.WriteLine($"the area of the box is {Area}");
 
@@ -52,13 +48,12 @@ namespace Assignment2
             s1.roll = Convert.ToInt32(Console.ReadLine());
             s1.name = Console.ReadLine();
 
-
             StudenInfo<long, string> s2 = new StudenInfo<long, string>();
 
             s2.addroll(1234);
             s2.addname("sumon");
 
-          */
+         
 
 
 
@@ -85,25 +80,19 @@ namespace Assignment2
 
 
 
-            int a = 2;
-            int b = 4;
-
-            swap<int>( ref a, ref b);
-
-            Console.WriteLine(a);
 
 
+            G2method g2 = new G2method();
+
+            string str1 = Console.ReadLine();
+            string str2 = Console.ReadLine();
+
+            g2.swapvalue<string>(ref str1, ref str2);
+
+            Console.WriteLine($" After swap s1: {s1}, s2:{ s2}");
 
 
 
-
-          static void swap<T>(ref T v, ref T v2)
-            {
-                T temp;
-                temp = v;
-                v = v2;
-                v2 = temp;
-            }
 
 
         }

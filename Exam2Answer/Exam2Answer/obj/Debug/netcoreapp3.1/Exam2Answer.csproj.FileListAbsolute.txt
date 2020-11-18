@@ -1,0 +1,13 @@
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\bin\Debug\netcoreapp3.1\Exam2Answer.exe
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\bin\Debug\netcoreapp3.1\Exam2Answer.deps.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\bin\Debug\netcoreapp3.1\Exam2Answer.runtimeconfig.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\bin\Debug\netcoreapp3.1\Exam2Answer.runtimeconfig.dev.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\bin\Debug\netcoreapp3.1\Exam2Answer.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\bin\Debug\netcoreapp3.1\Exam2Answer.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\obj\Debug\netcoreapp3.1\Exam2Answer.csprojAssemblyReference.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\obj\Debug\netcoreapp3.1\Exam2Answer.AssemblyInfoInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\obj\Debug\netcoreapp3.1\Exam2Answer.AssemblyInfo.cs
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\obj\Debug\netcoreapp3.1\Exam2Answer.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\obj\Debug\netcoreapp3.1\Exam2Answer.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\obj\Debug\netcoreapp3.1\Exam2Answer.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\Exam2Answer\Exam2Answer\obj\Debug\netcoreapp3.1\Exam2Answer.genruntimeconfig.cache

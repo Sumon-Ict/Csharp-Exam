@@ -19,8 +19,6 @@ namespace Assignment2
         {
             name = n;
         }
-
-
        
     }
 }

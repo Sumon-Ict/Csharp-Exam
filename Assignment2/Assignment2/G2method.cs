@@ -4,7 +4,16 @@ using System.Text;
 
 namespace Assignment2
 {
-    class G2method
+   public  class G2method
     {
+        public void swapvalue<T>(ref T a,ref T b )  //generic method created 
+        {
+            T temp;
+            temp = a;
+            a = b;
+            b = temp;
+        }
+
+
     }
 }

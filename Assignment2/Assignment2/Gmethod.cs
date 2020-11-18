@@ -6,20 +6,23 @@ namespace Assignment2
 {
    public  class Gmethod
     {
-        public void displayInfo<Tkey, Tvalue>(Tkey k,Tvalue v )  //    generic method
+        public void displayInfo<Tkey, Tvalue>(Tkey kvalue,Tvalue value )  //    generic method
         {
-            Console.WriteLine($"{k} , {v} ");
+            Console.WriteLine($"{kvalue} , {value} ");
 
         }
 
 
 
-        public void display<T1,T2,T3>(T1 v1, T2 v2,T3 v3)   //generic method 
+        public void display<T1,T2,T3>(T1 value1, T2 value2,T3 value3)   //generic method 
         {
 
-            Console.WriteLine($"{ v1},  {v2},  {v3} ");
+            Console.WriteLine($"{ value1},  {value2},  {value3} ");
 
         }
+
+
+
 
 
 

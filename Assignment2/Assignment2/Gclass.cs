@@ -4,24 +4,20 @@ using System.Text;
 
 namespace Assignment2
 {
-   public class Gclass<T>
+   public class Gclass<T>   //created  generic class 
     {
 
-        private T data;
+        private T datavalue;
 
 
         public T Data
         {
-            get { return data; }
+            get { return datavalue; }
             set
             {
-                data = value;
+                datavalue = value;
             }
         }
-
-
-
-
 
     }
 }

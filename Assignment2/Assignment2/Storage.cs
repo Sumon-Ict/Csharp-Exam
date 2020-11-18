@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Assignment2
 {
-   public class Storage<T>
+   public class Storage<T>  //generic class 
     {
         
        
