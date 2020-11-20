@@ -1,0 +1,13 @@
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\bin\Debug\netcoreapp3.1\Codeforces_43A.exe
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\bin\Debug\netcoreapp3.1\Codeforces_43A.deps.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\bin\Debug\netcoreapp3.1\Codeforces_43A.runtimeconfig.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\bin\Debug\netcoreapp3.1\Codeforces_43A.runtimeconfig.dev.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\bin\Debug\netcoreapp3.1\Codeforces_43A.dll
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\bin\Debug\netcoreapp3.1\Codeforces_43A.pdb
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\obj\Debug\netcoreapp3.1\Codeforces_43A.csprojAssemblyReference.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\obj\Debug\netcoreapp3.1\Codeforces_43A.AssemblyInfoInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\obj\Debug\netcoreapp3.1\Codeforces_43A.AssemblyInfo.cs
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\obj\Debug\netcoreapp3.1\Codeforces_43A.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\obj\Debug\netcoreapp3.1\Codeforces_43A.dll
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\obj\Debug\netcoreapp3.1\Codeforces_43A.pdb
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\Codeforces_43A\Codeforces_43A\obj\Debug\netcoreapp3.1\Codeforces_43A.genruntimeconfig.cache
