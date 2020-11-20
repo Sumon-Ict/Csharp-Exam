@@ -1,0 +1,13 @@
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\bin\Debug\netcoreapp3.1\codeforces_660B.exe
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\bin\Debug\netcoreapp3.1\codeforces_660B.deps.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\bin\Debug\netcoreapp3.1\codeforces_660B.runtimeconfig.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\bin\Debug\netcoreapp3.1\codeforces_660B.runtimeconfig.dev.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\bin\Debug\netcoreapp3.1\codeforces_660B.dll
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\bin\Debug\netcoreapp3.1\codeforces_660B.pdb
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\obj\Debug\netcoreapp3.1\codeforces_660B.csprojAssemblyReference.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\obj\Debug\netcoreapp3.1\codeforces_660B.AssemblyInfoInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\obj\Debug\netcoreapp3.1\codeforces_660B.AssemblyInfo.cs
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\obj\Debug\netcoreapp3.1\codeforces_660B.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\obj\Debug\netcoreapp3.1\codeforces_660B.dll
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\obj\Debug\netcoreapp3.1\codeforces_660B.pdb
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforces_660B\codeforces_660B\obj\Debug\netcoreapp3.1\codeforces_660B.genruntimeconfig.cache

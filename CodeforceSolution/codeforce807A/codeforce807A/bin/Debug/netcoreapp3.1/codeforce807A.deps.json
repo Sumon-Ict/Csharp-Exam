@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "codeforce807A/1.0.0": {
+        "runtime": {
+          "codeforce807A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "codeforce807A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

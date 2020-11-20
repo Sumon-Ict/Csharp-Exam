@@ -1,0 +1,13 @@
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\bin\Debug\netcoreapp3.1\codeforce_791A.exe
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\bin\Debug\netcoreapp3.1\codeforce_791A.deps.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\bin\Debug\netcoreapp3.1\codeforce_791A.runtimeconfig.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\bin\Debug\netcoreapp3.1\codeforce_791A.runtimeconfig.dev.json
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\bin\Debug\netcoreapp3.1\codeforce_791A.dll
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\bin\Debug\netcoreapp3.1\codeforce_791A.pdb
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\obj\Debug\netcoreapp3.1\codeforce_791A.csprojAssemblyReference.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\obj\Debug\netcoreapp3.1\codeforce_791A.AssemblyInfoInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\obj\Debug\netcoreapp3.1\codeforce_791A.AssemblyInfo.cs
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\obj\Debug\netcoreapp3.1\codeforce_791A.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\obj\Debug\netcoreapp3.1\codeforce_791A.dll
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\obj\Debug\netcoreapp3.1\codeforce_791A.pdb
+C:\Users\Sumon\Desktop\C#  codes\CodeforceSolution\codeforce_791A\codeforce_791A\obj\Debug\netcoreapp3.1\codeforce_791A.genruntimeconfig.cache

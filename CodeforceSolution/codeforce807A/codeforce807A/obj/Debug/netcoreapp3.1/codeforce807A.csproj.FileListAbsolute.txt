@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\bin\Debug\netcoreapp3.1\codeforce807A.exe
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\bin\Debug\netcoreapp3.1\codeforce807A.deps.json
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\bin\Debug\netcoreapp3.1\codeforce807A.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\bin\Debug\netcoreapp3.1\codeforce807A.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\bin\Debug\netcoreapp3.1\codeforce807A.dll
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\bin\Debug\netcoreapp3.1\codeforce807A.pdb
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\obj\Debug\netcoreapp3.1\codeforce807A.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\obj\Debug\netcoreapp3.1\codeforce807A.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\obj\Debug\netcoreapp3.1\codeforce807A.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\obj\Debug\netcoreapp3.1\codeforce807A.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\obj\Debug\netcoreapp3.1\codeforce807A.dll
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\obj\Debug\netcoreapp3.1\codeforce807A.pdb
+D:\Csharp Test\Csharp-Text\codeforce807A\codeforce807A\obj\Debug\netcoreapp3.1\codeforce807A.genruntimeconfig.cache
