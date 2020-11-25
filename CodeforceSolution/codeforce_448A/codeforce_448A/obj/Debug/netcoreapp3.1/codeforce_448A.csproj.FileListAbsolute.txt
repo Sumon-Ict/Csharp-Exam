@@ -1,0 +1,13 @@
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\bin\Debug\netcoreapp3.1\codeforce_448A.exe
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\bin\Debug\netcoreapp3.1\codeforce_448A.deps.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\bin\Debug\netcoreapp3.1\codeforce_448A.runtimeconfig.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\bin\Debug\netcoreapp3.1\codeforce_448A.runtimeconfig.dev.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\bin\Debug\netcoreapp3.1\codeforce_448A.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\bin\Debug\netcoreapp3.1\codeforce_448A.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\obj\Debug\netcoreapp3.1\codeforce_448A.csprojAssemblyReference.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\obj\Debug\netcoreapp3.1\codeforce_448A.AssemblyInfoInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\obj\Debug\netcoreapp3.1\codeforce_448A.AssemblyInfo.cs
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\obj\Debug\netcoreapp3.1\codeforce_448A.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\obj\Debug\netcoreapp3.1\codeforce_448A.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\obj\Debug\netcoreapp3.1\codeforce_448A.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_448A\codeforce_448A\obj\Debug\netcoreapp3.1\codeforce_448A.genruntimeconfig.cache
