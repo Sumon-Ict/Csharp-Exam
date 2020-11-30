@@ -1,0 +1,13 @@
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\bin\Debug\netcoreapp3.1\codeforce_540A.exe
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\bin\Debug\netcoreapp3.1\codeforce_540A.deps.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\bin\Debug\netcoreapp3.1\codeforce_540A.runtimeconfig.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\bin\Debug\netcoreapp3.1\codeforce_540A.runtimeconfig.dev.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\bin\Debug\netcoreapp3.1\codeforce_540A.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\bin\Debug\netcoreapp3.1\codeforce_540A.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\obj\Debug\netcoreapp3.1\codeforce_540A.csprojAssemblyReference.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\obj\Debug\netcoreapp3.1\codeforce_540A.AssemblyInfoInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\obj\Debug\netcoreapp3.1\codeforce_540A.AssemblyInfo.cs
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\obj\Debug\netcoreapp3.1\codeforce_540A.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\obj\Debug\netcoreapp3.1\codeforce_540A.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\obj\Debug\netcoreapp3.1\codeforce_540A.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_540A\codeforce_540A\obj\Debug\netcoreapp3.1\codeforce_540A.genruntimeconfig.cache

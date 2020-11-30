@@ -1,0 +1,13 @@
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\bin\Debug\netcoreapp3.1\codeforce_490A.exe
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\bin\Debug\netcoreapp3.1\codeforce_490A.deps.json
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\bin\Debug\netcoreapp3.1\codeforce_490A.runtimeconfig.json
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\bin\Debug\netcoreapp3.1\codeforce_490A.runtimeconfig.dev.json
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\bin\Debug\netcoreapp3.1\codeforce_490A.dll
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\bin\Debug\netcoreapp3.1\codeforce_490A.pdb
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\obj\Debug\netcoreapp3.1\codeforce_490A.csprojAssemblyReference.cache
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\obj\Debug\netcoreapp3.1\codeforce_490A.AssemblyInfoInputs.cache
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\obj\Debug\netcoreapp3.1\codeforce_490A.AssemblyInfo.cs
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\obj\Debug\netcoreapp3.1\codeforce_490A.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\obj\Debug\netcoreapp3.1\codeforce_490A.dll
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\obj\Debug\netcoreapp3.1\codeforce_490A.pdb
+C:\Users\Sumon\source\repos\codeforce_490A\codeforce_490A\obj\Debug\netcoreapp3.1\codeforce_490A.genruntimeconfig.cache

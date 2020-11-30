@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sumon\\Desktop\\C#  codes\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\codeforces_660B.csproj": {}
+    "C:\\Users\\Sumon\\Desktop\\C#  codes\\Csharp-Exam\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\codeforces_660B.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sumon\\Desktop\\C#  codes\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\codeforces_660B.csproj": {
+    "C:\\Users\\Sumon\\Desktop\\C#  codes\\Csharp-Exam\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\codeforces_660B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sumon\\Desktop\\C#  codes\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\codeforces_660B.csproj",
+        "projectUniqueName": "C:\\Users\\Sumon\\Desktop\\C#  codes\\Csharp-Exam\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\codeforces_660B.csproj",
         "projectName": "codeforces_660B",
-        "projectPath": "C:\\Users\\Sumon\\Desktop\\C#  codes\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\codeforces_660B.csproj",
+        "projectPath": "C:\\Users\\Sumon\\Desktop\\C#  codes\\Csharp-Exam\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\codeforces_660B.csproj",
         "packagesPath": "C:\\Users\\Sumon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sumon\\Desktop\\C#  codes\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\obj\\",
+        "outputPath": "C:\\Users\\Sumon\\Desktop\\C#  codes\\Csharp-Exam\\CodeforceSolution\\codeforces_660B\\codeforces_660B\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sumon\\AppData\\Roaming\\NuGet\\NuGet.Config",

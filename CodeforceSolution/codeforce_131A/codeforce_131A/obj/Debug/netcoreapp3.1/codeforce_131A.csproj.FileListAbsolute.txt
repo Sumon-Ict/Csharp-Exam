@@ -1,0 +1,13 @@
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\bin\Debug\netcoreapp3.1\codeforce_131A.exe
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\bin\Debug\netcoreapp3.1\codeforce_131A.deps.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\bin\Debug\netcoreapp3.1\codeforce_131A.runtimeconfig.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\bin\Debug\netcoreapp3.1\codeforce_131A.runtimeconfig.dev.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\bin\Debug\netcoreapp3.1\codeforce_131A.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\bin\Debug\netcoreapp3.1\codeforce_131A.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\obj\Debug\netcoreapp3.1\codeforce_131A.AssemblyInfoInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\obj\Debug\netcoreapp3.1\codeforce_131A.AssemblyInfo.cs
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\obj\Debug\netcoreapp3.1\codeforce_131A.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\obj\Debug\netcoreapp3.1\codeforce_131A.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\obj\Debug\netcoreapp3.1\codeforce_131A.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\obj\Debug\netcoreapp3.1\codeforce_131A.genruntimeconfig.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\CodeforceSolution\codeforce_131A\codeforce_131A\obj\Debug\netcoreapp3.1\codeforce_131A.csprojAssemblyReference.cache
