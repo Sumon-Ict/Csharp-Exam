@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.exe
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.deps.json
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.dll
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.pdb
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.dll
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.pdb
+D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.genruntimeconfig.cache
