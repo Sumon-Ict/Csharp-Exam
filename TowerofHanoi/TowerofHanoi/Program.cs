@@ -34,7 +34,7 @@ namespace TowerofHanoi
 
 
 
-            int d = 0;
+            int d = 1;
             int list2count = list2.Count;
 
             for(int i=1;i<list2count;i++)
@@ -46,30 +46,27 @@ namespace TowerofHanoi
 
             char ch2 = list2[0];
 
-
-            int list1elementnum = list1.Count;
-
-            for(int i=list1elementnum-1;i>=0;i--)
-            {
-                if (ch2 == list1[i])
+                while (list1.Contains(ch2))
                 {
-                    hg.movecolordice(list1, list2);
-                    hg.presensituation(d++, list1, list2, list3);
+
+                    if (ch2 == list1[list1.Count-1])
+                    {
+                        hg.movecolordice(list1, list2);
+                        hg.presensituation(d++, list1, list2, list3);
+                    }
+                    else
+                    {
+                        hg.movecolordice(list1, list3);
+                        hg.presensituation(d++, list1, list2, list3);
+                    }
                 }
-                else
-                {
-                    hg.movecolordice(list1, list3);
-                    hg.presensituation(d++, list1, list2, list3);
-                }
-            }
 
-            
 
-            int list3elementnum = list3.Count;
 
-            for(int i=list3elementnum-1;i>=0;i--)
+
+            while (list3.Contains(ch2))
             {
-                if (ch2 == list3[i])
+                if (ch2 == list3[list3.Count - 1])
                 {
                     hg.movecolordice(list3, list2);
                     hg.presensituation(d++, list1, list2, list3);
@@ -81,57 +78,51 @@ namespace TowerofHanoi
                 }
             }
 
-            
+
+
+            int list3size = list3.Count;
+            for(int i=0;i<list3size;i++)
+            {
+                hg.movecolordice(list3, list1);
+                hg.presensituation(d++, list1, list2, list3);
+
+
+            }
+
 
             char ch3 = list1[list1.Count - 1];
-            int list1elementnumber = list1.Count;
 
-            for(int i=list1elementnumber-1;i>=0;i--)
+
+            while(list1.Contains(ch3))
             {
-                if (ch3 == list1[i])
+                if(ch3==list1[list1.Count-1])
                 {
                     hg.movecolordice(list1, list3);
                     hg.presensituation(d++, list1, list2, list3);
+
                 }
                 else
                 {
                     hg.movecolordice(list1, list2);
                     hg.presensituation(d++, list1, list2, list3);
                 }
+            }
 
-                }
-
-
-            //Console.WriteLine(list2.Count);
-
-            Console.WriteLine($"success, Total try {d}");
-
-
-            for(int i=0;i<3;i++)
+            int list2size = list2.Count-3;
+            for(int i=0;i<list2size;i++)
             {
                 hg.movecolordice(list2, list1);
+                hg.presensituation(d++, list1, list2, list3);
 
             }
 
-            for (int i = 0; i < list2.Count; i++)
-            {
-                Console.WriteLine(list2[i]);
-            }
-            for (int i = 0; i < list1.Count; i++)
-            {
-                Console.WriteLine(list1[i]);
 
-            }
+            Console.WriteLine($"success, Total try: {d-1}");
 
-            for(int i=0;i<list3.Count;i++)
-            {
-                Console.WriteLine(list3[i]);
-
-            }
-
+                                  
         }
-     
 
-            
+
+
     }
 }
