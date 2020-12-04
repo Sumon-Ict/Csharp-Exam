@@ -40,6 +40,7 @@ namespace TowerofHanoi
             for(int i=1;i<list2count;i++)
             {
                 hg.movecolordice(list2, list1);
+                hg.presensituation(d++,list1, list2, list3);
 
             }
 
@@ -51,9 +52,15 @@ namespace TowerofHanoi
             for(int i=list1elementnum-1;i>=0;i--)
             {
                 if (ch2 == list1[i])
+                {
                     hg.movecolordice(list1, list2);
+                    hg.presensituation(d++, list1, list2, list3);
+                }
                 else
+                {
                     hg.movecolordice(list1, list3);
+                    hg.presensituation(d++, list1, list2, list3);
+                }
             }
 
             
@@ -63,9 +70,15 @@ namespace TowerofHanoi
             for(int i=list3elementnum-1;i>=0;i--)
             {
                 if (ch2 == list3[i])
+                {
                     hg.movecolordice(list3, list2);
+                    hg.presensituation(d++, list1, list2, list3);
+                }
                 else
+                {
                     hg.movecolordice(list3, list1);
+                    hg.presensituation(d++, list1, list2, list3);
+                }
             }
 
             
@@ -76,15 +89,22 @@ namespace TowerofHanoi
             for(int i=list1elementnumber-1;i>=0;i--)
             {
                 if (ch3 == list1[i])
+                {
                     hg.movecolordice(list1, list3);
+                    hg.presensituation(d++, list1, list2, list3);
+                }
                 else
+                {
                     hg.movecolordice(list1, list2);
+                    hg.presensituation(d++, list1, list2, list3);
+                }
 
-            }
+                }
 
 
-            Console.WriteLine(list2.Count);
+            //Console.WriteLine(list2.Count);
 
+            Console.WriteLine($"success, Total try {d}");
 
 
             for(int i=0;i<3;i++)

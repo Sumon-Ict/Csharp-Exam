@@ -11,3 +11,16 @@ D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\Tow
 D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.dll
 D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.pdb
 D:\Csharp Test\Csharp-Text\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.genruntimeconfig.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.exe
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.deps.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.runtimeconfig.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.runtimeconfig.dev.json
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\bin\Debug\netcoreapp3.1\TowerofHanoi.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.csprojAssemblyReference.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.AssemblyInfoInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.AssemblyInfo.cs
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.dll
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.pdb
+C:\Users\Sumon\Desktop\C#  codes\Csharp-Exam\TowerofHanoi\TowerofHanoi\obj\Debug\netcoreapp3.1\TowerofHanoi.genruntimeconfig.cache
