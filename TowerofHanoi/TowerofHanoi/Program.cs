@@ -14,12 +14,15 @@ namespace TowerofHanoi
 
             Hanoigame hg = new Hanoigame();
 
+
             List<char> list1 = new List<char>();
             List<char> list2 = new List<char>();
             List<char> list3 = new List<char>();
 
 
-            Console.WriteLine("insert the color dice into the rod");
+
+            Console.WriteLine("insert the color dice into the rod with 3 by 3 matrix");
+
 
             for(int i=0;i<3;i++)
             {
@@ -32,6 +35,9 @@ namespace TowerofHanoi
 
             }
 
+            list1.Reverse();
+            list2.Reverse();
+            list3.Reverse();
 
 
             int d = 1;
@@ -44,12 +50,12 @@ namespace TowerofHanoi
 
             }
 
-            char ch2 = list2[0];
+            char colorofdice_rod2 = list2[0];
 
-                while (list1.Contains(ch2))
+                while (list1.Contains(colorofdice_rod2))
                 {
 
-                    if (ch2 == list1[list1.Count-1])
+                    if (colorofdice_rod2 == list1[list1.Count-1])
                     {
                         hg.movecolordice(list1, list2);
                         hg.presensituation(d++, list1, list2, list3);
@@ -64,9 +70,9 @@ namespace TowerofHanoi
 
 
 
-            while (list3.Contains(ch2))
+            while (list3.Contains(colorofdice_rod2))
             {
-                if (ch2 == list3[list3.Count - 1])
+                if (colorofdice_rod2 == list3[list3.Count - 1])
                 {
                     hg.movecolordice(list3, list2);
                     hg.presensituation(d++, list1, list2, list3);
@@ -90,12 +96,12 @@ namespace TowerofHanoi
             }
 
 
-            char ch3 = list1[list1.Count - 1];
+            char colorofdice_rod3 = list1[list1.Count - 1];
 
 
-            while(list1.Contains(ch3))
+            while(list1.Contains(colorofdice_rod3))
             {
-                if(ch3==list1[list1.Count-1])
+                if(colorofdice_rod3==list1[list1.Count-1])
                 {
                     hg.movecolordice(list1, list3);
                     hg.presensituation(d++, list1, list2, list3);
@@ -109,7 +115,7 @@ namespace TowerofHanoi
             }
 
             int list2size = list2.Count-3;
-            for(int i=0;i<list2size;i++)
+            for(int i=0;i<list2size;i++)     //storing the rest of color dice in rod_1
             {
                 hg.movecolordice(list2, list1);
                 hg.presensituation(d++, list1, list2, list3);
