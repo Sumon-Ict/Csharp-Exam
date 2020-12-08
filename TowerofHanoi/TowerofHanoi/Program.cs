@@ -21,7 +21,7 @@ namespace TowerofHanoi
 
 
 
-            Console.WriteLine("insert the color dice into the rod with 3 by 3 matrix");
+            Console.WriteLine("insert the 9  color dice into the rod with 3 by 3 matrix");
 
 
             for(int i=0;i<3;i++)
@@ -40,13 +40,13 @@ namespace TowerofHanoi
             list3.Reverse();
 
 
-            int d = 1;
+            int trynumber = 1;
             int list2count = list2.Count;
 
             for(int i=1;i<list2count;i++)
             {
-                hg.movecolordice(list2, list1);
-                hg.presensituation(d++,list1, list2, list3);
+                hg.movecolordice(trynumber++,list2,2, list1,1);
+                hg.presensituation(list1, list2, list3);
 
             }
 
@@ -57,13 +57,13 @@ namespace TowerofHanoi
 
                     if (colorofdice_rod2 == list1[list1.Count-1])
                     {
-                        hg.movecolordice(list1, list2);
-                        hg.presensituation(d++, list1, list2, list3);
+                        hg.movecolordice(trynumber++, list1,1, list2,2);
+                        hg.presensituation( list1, list2, list3);
                     }
                     else
                     {
-                        hg.movecolordice(list1, list3);
-                        hg.presensituation(d++, list1, list2, list3);
+                        hg.movecolordice(trynumber++,list1,1, list3,3);
+                        hg.presensituation(list1, list2, list3);
                     }
                 }
 
@@ -74,13 +74,13 @@ namespace TowerofHanoi
             {
                 if (colorofdice_rod2 == list3[list3.Count - 1])
                 {
-                    hg.movecolordice(list3, list2);
-                    hg.presensituation(d++, list1, list2, list3);
+                    hg.movecolordice( trynumber++, list3,3, list2,2);
+                    hg.presensituation(list1, list2, list3);
                 }
                 else
                 {
-                    hg.movecolordice(list3, list1);
-                    hg.presensituation(d++, list1, list2, list3);
+                    hg.movecolordice( trynumber++, list3,3, list1,1);
+                    hg.presensituation(list1, list2, list3);
                 }
             }
 
@@ -89,8 +89,8 @@ namespace TowerofHanoi
             int list3size = list3.Count;
             for(int i=0;i<list3size;i++)
             {
-                hg.movecolordice(list3, list1);
-                hg.presensituation(d++, list1, list2, list3);
+                hg.movecolordice( trynumber++, list3,3, list1,1);
+                hg.presensituation(list1, list2, list3);
 
 
             }
@@ -103,27 +103,27 @@ namespace TowerofHanoi
             {
                 if(colorofdice_rod3==list1[list1.Count-1])
                 {
-                    hg.movecolordice(list1, list3);
-                    hg.presensituation(d++, list1, list2, list3);
+                    hg.movecolordice(trynumber++, list1,1, list3,3);
+                    hg.presensituation(list1, list2, list3);
 
                 }
                 else
                 {
-                    hg.movecolordice(list1, list2);
-                    hg.presensituation(d++, list1, list2, list3);
+                    hg.movecolordice(trynumber++, list1,1, list2,2);
+                    hg.presensituation(list1, list2, list3);
                 }
             }
 
             int list2size = list2.Count-3;
-            for(int i=0;i<list2size;i++)     //storing the rest of color dice in rod_1
+            for(int i=0;i<list2size;i++)     //storing the rest of other  color dice in rod_1
             {
-                hg.movecolordice(list2, list1);
-                hg.presensituation(d++, list1, list2, list3);
+                hg.movecolordice( trynumber++, list2,2, list1,1);
+                hg.presensituation(list1, list2, list3);
 
             }
 
 
-            Console.WriteLine($"success, Total try: {d-1}");
+            Console.WriteLine($"success, Total try: {trynumber-1}");
 
                                   
         }

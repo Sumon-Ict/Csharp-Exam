@@ -8,18 +8,27 @@ namespace TowerofHanoi
     {
 
 
-        public void movecolordice(List<char> li, List<char> li2)
+        public void movecolordice( int d,List<char> From_list, int from_n1, List<char>To_list,int To_n2)
         {
-            char ch = li[li.Count - 1];
-            li2.Add(ch);
-            li.RemoveAt(li.Count - 1);
+            Console.WriteLine($"try no: {d}");
+
+
+
+            Console.WriteLine($"Dice move from {from_n1} to {To_n2}");
+            Console.WriteLine();
+
+
+
+            char ch =From_list[From_list.Count - 1];
+            To_list.Add(ch);
+
+            From_list.RemoveAt(From_list.Count - 1);
 
         }
-        public void presensituation(int d, List<char> list1, List<char> list2, List<char> list3)
+        public void presensituation(List<char> list1, List<char> list2, List<char> list3)
         {
-            Console.WriteLine($"try no {d}");
+          
 
-            Console.WriteLine();
            
 
             int maxsizeof_list = Math.Max(list1.Count, Math.Max(list2.Count, list3.Count));
@@ -47,36 +56,6 @@ namespace TowerofHanoi
 
             Console.WriteLine();
 
-
-            /*
-
-            Console.WriteLine("the color dice at present in rod1 ");
-            for (int i = 0; i < list1.Count; i++)
-            {
-                Console.WriteLine($"{list1[i]}   ");
-
-            }
-
-            Console.WriteLine();
-
-
-            Console.WriteLine("the color dice at present in rod2 ");
-            for (int i = 0; i < list2.Count; i++)
-            {
-                Console.WriteLine($"{list2[i]}   ");
-            }
-            Console.WriteLine();
-
-            Console.WriteLine("the coor dice at present in rod3");
-
-            for (int i = 0; i < list3.Count; i++)
-            {
-                Console.WriteLine($"{list3[i]}   ");
-
-            }
-            Console.WriteLine();
-
-            */
 
         }
     }
