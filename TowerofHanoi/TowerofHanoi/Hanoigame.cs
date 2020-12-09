@@ -17,7 +17,7 @@ namespace TowerofHanoi
             Console.WriteLine($"Dice move from {from_n1} to {To_n2}");
             Console.WriteLine();
 
-
+            
 
             char ch =From_list[From_list.Count - 1];
             To_list.Add(ch);
