@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\bin\Debug\netcoreapp3.1\codeforce_510A.exe
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\bin\Debug\netcoreapp3.1\codeforce_510A.deps.json
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\bin\Debug\netcoreapp3.1\codeforce_510A.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\bin\Debug\netcoreapp3.1\codeforce_510A.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\bin\Debug\netcoreapp3.1\codeforce_510A.dll
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\bin\Debug\netcoreapp3.1\codeforce_510A.pdb
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\obj\Debug\netcoreapp3.1\codeforce_510A.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\obj\Debug\netcoreapp3.1\codeforce_510A.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\obj\Debug\netcoreapp3.1\codeforce_510A.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\obj\Debug\netcoreapp3.1\codeforce_510A.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\obj\Debug\netcoreapp3.1\codeforce_510A.dll
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\obj\Debug\netcoreapp3.1\codeforce_510A.pdb
+D:\Csharp Test\Csharp-Text\codeforce_510A\codeforce_510A\obj\Debug\netcoreapp3.1\codeforce_510A.genruntimeconfig.cache
