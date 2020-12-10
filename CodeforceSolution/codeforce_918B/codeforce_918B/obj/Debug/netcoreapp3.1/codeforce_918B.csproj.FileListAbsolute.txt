@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\bin\Debug\netcoreapp3.1\codeforce_918B.exe
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\bin\Debug\netcoreapp3.1\codeforce_918B.deps.json
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\bin\Debug\netcoreapp3.1\codeforce_918B.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\bin\Debug\netcoreapp3.1\codeforce_918B.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\bin\Debug\netcoreapp3.1\codeforce_918B.dll
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\bin\Debug\netcoreapp3.1\codeforce_918B.pdb
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\obj\Debug\netcoreapp3.1\codeforce_918B.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\obj\Debug\netcoreapp3.1\codeforce_918B.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\obj\Debug\netcoreapp3.1\codeforce_918B.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\obj\Debug\netcoreapp3.1\codeforce_918B.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\obj\Debug\netcoreapp3.1\codeforce_918B.dll
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\obj\Debug\netcoreapp3.1\codeforce_918B.pdb
+D:\Csharp Test\Csharp-Text\codeforce_918B\codeforce_918B\obj\Debug\netcoreapp3.1\codeforce_918B.genruntimeconfig.cache
