@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\bin\Debug\netcoreapp3.1\codeforce_746B.exe
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\bin\Debug\netcoreapp3.1\codeforce_746B.deps.json
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\bin\Debug\netcoreapp3.1\codeforce_746B.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\bin\Debug\netcoreapp3.1\codeforce_746B.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\bin\Debug\netcoreapp3.1\codeforce_746B.dll
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\bin\Debug\netcoreapp3.1\codeforce_746B.pdb
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\obj\Debug\netcoreapp3.1\codeforce_746B.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\obj\Debug\netcoreapp3.1\codeforce_746B.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\obj\Debug\netcoreapp3.1\codeforce_746B.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\obj\Debug\netcoreapp3.1\codeforce_746B.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\obj\Debug\netcoreapp3.1\codeforce_746B.dll
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\obj\Debug\netcoreapp3.1\codeforce_746B.pdb
+D:\Csharp Test\Csharp-Text\codeforce_746B\codeforce_746B\obj\Debug\netcoreapp3.1\codeforce_746B.genruntimeconfig.cache
