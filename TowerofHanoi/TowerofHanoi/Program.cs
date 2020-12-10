@@ -23,10 +23,13 @@ namespace TowerofHanoi
 
             SortedSet<char> storeset2 = new SortedSet<char>();
             SortedSet<char> storeset3 = new SortedSet<char>();
-           
 
 
-            Console.WriteLine("insert the 3 different of colors 9 dice into the rod with 3 by 3 matrix");
+
+
+            Console.WriteLine("insert the 9 dice of 3 colors first character into the rod 3 by 3 matrix");
+
+
 
 
             for(int i=0;i<3;i++)
